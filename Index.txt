@@ -44,6 +44,7 @@
 \C#\Forms - Flatten Form
 \C#\Forms - ListBox
 \C#\Forms - RadioButton
+\C#\Forms - Read Form Values
 \C#\Forms - TextField
 \C#\Invisible Text Over Image
 \C#\Layers
@@ -51,6 +52,7 @@
 \C#\Navigation - Link To Page
 \C#\Navigation - Page Numbers
 \C#\Security - Passwords And Permissions
+\C#\Security - Remove Protection
 \C#\Security - Signing
 \C#\Text - Draw String
 \C#\Text - Fonts
@@ -102,6 +104,7 @@
 \VB.NET\Forms - Flatten Form
 \VB.NET\Forms - ListBox
 \VB.NET\Forms - RadioButton
+\VB.NET\Forms - Read Form Values
 \VB.NET\Forms - TextField
 \VB.NET\Invisible Text Over Image
 \VB.NET\Layers
@@ -109,6 +112,7 @@
 \VB.NET\Navigation - Link To Page
 \VB.NET\Navigation - Page Numbers
 \VB.NET\Security - Passwords and Permissions
+\VB.NET\Security - Remove Protection
 \VB.NET\Security - Signing
 \VB.NET\Text - Draw String
 \VB.NET\Text - Fonts
