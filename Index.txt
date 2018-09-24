@@ -51,6 +51,7 @@
 \C#\Navigation - Bookmarks
 \C#\Navigation - Link To Page
 \C#\Navigation - Page Numbers
+\C#\Reorder Pages
 \C#\Security - Passwords And Permissions
 \C#\Security - Remove Protection
 \C#\Security - Signing
@@ -111,6 +112,7 @@
 \VB.NET\Navigation - Bookmarks
 \VB.NET\Navigation - Link To Page
 \VB.NET\Navigation - Page Numbers
+\VB.NET\Reorder Pages
 \VB.NET\Security - Passwords and Permissions
 \VB.NET\Security - Remove Protection
 \VB.NET\Security - Signing
