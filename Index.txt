@@ -11,6 +11,8 @@
 \C#\Actions - Show-Hide Widget
 \C#\Actions - Submit Form
 \C#\Actions - URI (Link)
+\C#\Add Header And Footer
+\C#\Add Page Numbers
 \C#\Annotations - 3D
 \C#\Annotations - File Attachment
 \C#\Annotations - Markup
@@ -72,6 +74,8 @@
 \VB.NET\Actions - Show-Hide Widget
 \VB.NET\Actions - Submit Form
 \VB.NET\Actions - URI (Link)
+\VB.NET\Add Header And Footer
+\VB.NET\Add Page Numbers
 \VB.NET\Annotations - 3D
 \VB.NET\Annotations - File Attachment
 \VB.NET\Annotations - Markup
