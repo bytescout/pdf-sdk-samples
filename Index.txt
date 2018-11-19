@@ -39,6 +39,13 @@
 \C#\Drawing - Tiling Patterns
 \C#\Drawing - Transformations
 \C#\Drawing - Transparency
+\C#\Email to PDF (EmailWithAttachment)
+\C#\Email to PDF (HTML Email With Attachments)
+\C#\Email to PDF (HTML Email)
+\C#\Email to PDF (RTF Email With Attachments)
+\C#\Email to PDF (RTF Email)
+\C#\Email to PDF (Text Email With Attachments)
+\C#\Email to PDF (Text Email)
 \C#\Forms - Button
 \C#\Forms - CheckBox
 \C#\Forms - ComboBox
@@ -102,6 +109,13 @@
 \VB.NET\Drawing - Tiling Patterns
 \VB.NET\Drawing - Transformations
 \VB.NET\Drawing - Transparency
+\VB.NET\Email to PDF (EmailWithAttachment)
+\VB.NET\Email to PDF (HTML Email With Attachments)
+\VB.NET\Email to PDF (HTML Email)
+\VB.NET\Email to PDF (RTF Email With Attachments)
+\VB.NET\Email to PDF (RTF Email)
+\VB.NET\Email to PDF (Text Email With Attachments)
+\VB.NET\Email to PDF (Text Email)
 \VB.NET\Forms - Button
 \VB.NET\Forms - CheckBox
 \VB.NET\Forms - ComboBox
