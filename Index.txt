@@ -1,7 +1,6 @@
 ## Index of source code examples:
 
 \C#
-\C# - .NET Core 2.0
 \VB.NET
 \VBScript and VB6
 \_Web API
@@ -74,7 +73,6 @@
 \C#\Text - Tables
 \C#\Text - Watermarks
 \C#\Text - Word Spacing
-\C# - .NET Core 2.0\Document - Create New
 \VB.NET\Actions - GoTo
 \VB.NET\Actions - JavaScript
 \VB.NET\Actions - Launch
