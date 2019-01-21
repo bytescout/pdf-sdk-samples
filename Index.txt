@@ -1,275 +1,200 @@
 ## Index of source code examples:
 
-\ASP.NET
-\ASP.NET MVC
+\ASP.NET MVC C#
 \C#
 \VB.NET
 \VBScript and VB6
-\_Web API
-\ASP.NET\PDF SDK Samples
-\ASP.NET\PDF SDK Samples\SampleFiles
-\ASP.NET MVC\PDF SDK Samples
-\ASP.NET MVC\PDF SDK Samples\SampleFiles
-\C#\Actions - GoTo
-\C#\Actions - JavaScript
-\C#\Actions - Launch
-\C#\Actions - Show-Hide Widget
-\C#\Actions - Submit Form
-\C#\Actions - URI (Link)
+\ASP.NET MVC C#\Create PDF
+\ASP.NET MVC C#\Create PDF\SampleFiles
+\C#\Add 3d Annotations in PDF
+\C#\Add Annotation with Markup in PDF
+\C#\Add File Attachment Annotation in PDF
+\C#\Add GoTo Action to PDF
 \C#\Add Header And Footer
+\C#\Add Images to PDF
+\C#\Add JavaScript Action to pdf
+\C#\Add Launch action to PDF
 \C#\Add Page Numbers
-\C#\Annotations - 3D
-\C#\Annotations - File Attachment
-\C#\Annotations - Markup
-\C#\Annotations - Sound
-\C#\Annotations - Text
-\C#\Annotations - Video
-\C#\Convert - DOCX to HTML
-\C#\Convert - DOCX to PDF
-\C#\Convert - HTML to DOCX
-\C#\Convert - HTML to PDF
-\C#\Convert - SVG to PDF
-\C#\Convert - XML to PDF
-\C#\Display Options
-\C#\Document - Create New
-\C#\Document - Information
-\C#\Document - Load Existing
-\C#\Document - Merge Two Documents
-\C#\Drawing - Blend Mode
-\C#\Drawing - Clipping
-\C#\Drawing - Color Profiles
-\C#\Drawing - Graphics State
-\C#\Drawing - Lines and Curves
-\C#\Drawing - Rectangles
-\C#\Drawing - Templates
-\C#\Drawing - Tiling Patterns
-\C#\Drawing - Transformations
-\C#\Drawing - Transparency
-\C#\Email to PDF (EmailWithAttachment)
-\C#\Email to PDF (HTML Email With Attachments)
-\C#\Email to PDF (HTML Email)
-\C#\Email to PDF (RTF Email With Attachments)
-\C#\Email to PDF (RTF Email)
-\C#\Email to PDF (Text Email With Attachments)
-\C#\Email to PDF (Text Email)
-\C#\Forms - Button
-\C#\Forms - CheckBox
-\C#\Forms - ComboBox
-\C#\Forms - Fill Form
-\C#\Forms - Flatten Form
-\C#\Forms - ListBox
-\C#\Forms - RadioButton
-\C#\Forms - Read Form Values
-\C#\Forms - TextField
-\C#\Invisible Text Over Image
-\C#\Layers
-\C#\Navigation - Bookmarks
-\C#\Navigation - Link To Page
-\C#\Navigation - Page Numbers
-\C#\Reorder Pages
-\C#\Security - Passwords And Permissions
-\C#\Security - Remove Protection
-\C#\Security - Signing
-\C#\Text - Draw String
-\C#\Text - Fonts
-\C#\Text - Intercharacter Spacing
-\C#\Text - Right To Left Text
-\C#\Text - Rotation
-\C#\Text - String Scaling
-\C#\Text - Superscrip and Subscript
-\C#\Text - Tables
-\C#\Text - Watermarks
-\C#\Text - Word Spacing
-\VB.NET\Actions - GoTo
-\VB.NET\Actions - JavaScript
-\VB.NET\Actions - Launch
-\VB.NET\Actions - Show-Hide Widget
-\VB.NET\Actions - Submit Form
-\VB.NET\Actions - URI (Link)
+\C#\Add Passwords And Permissions in PDF
+\C#\Add Show Hide Action to PDF
+\C#\Add Sound Annotation in PDF
+\C#\Add Submit Form Action to PDF
+\C#\Add text annotations in PDF
+\C#\Add TextField to PDF form
+\C#\Add URI Link Action in PDF
+\C#\Add video annotation in PDF
+\C#\Add Watermarks to PDF
+\C#\Convert DOCX to HTML
+\C#\Convert DOCX to PDF
+\C#\Convert Email with attachments to PDF
+\C#\Convert HTML Email to PDF
+\C#\convert HTML Email with attachments to PDF
+\C#\Convert HTML to DOCX
+\C#\Convert HTML to PDF
+\C#\Convert RTF Email to PDF
+\C#\Convert RTF Email with attachments to PDF
+\C#\Convert SVG to PDF
+\C#\Convert text Email to PDF
+\C#\Convert text email with attachments to PDF
+\C#\Convert XML to PDF
+\C#\Create and use template in PDF
+\C#\Create button in PDF Form
+\C#\Create checkbox in pdf form
+\C#\Create ComboBox in PDF form
+\C#\Create ListBox in PDF form
+\C#\Create New PDF document
+\C#\Create RadioButton in PDF form
+\C#\Create Right To Left Text in PDF
+\C#\Create Tables in PDF
+\C#\Draw Lines and Curves in PDF
+\C#\Draw Rectangles in PDF
+\C#\Draw text String in PDF
+\C#\Draw with Transparency in PDF
+\C#\Fill PDF form
+\C#\Flatten PDF Form
+\C#\Load Existing PDF document
+\C#\Merge Two PDF Documents
+\C#\Read Form Values from PDF form
+\C#\Remove password and Protection from PDF
+\C#\Reorder Pages in PDF
+\C#\Set Blend Mode for Drawing in PDF
+\C#\Set Clipping for drawing in PDF
+\C#\Set Color Profiles for drawing in PDF
+\C#\Set Fonts for text in PDF
+\C#\Set Graphics State for Drawing in PDF
+\C#\Set Intercharacter Spacing for Text in PDF
+\C#\Set Invisible Text Over Image in PDF
+\C#\Set Navigation Bookmarks in PDF
+\C#\Set Page Numbers in PDF
+\C#\Set PDF document Display Options
+\C#\Set PDF document Information
+\C#\Set String Scaling in PDF
+\C#\Set Superscript and Subscript
+\C#\Set Text Rotation in PDF
+\C#\Set Tiling Patterns for drawings in pdf
+\C#\Set Transformations for drawings in pdf
+\C#\Set Word Spacing for text in PDF
+\C#\Signing PDF and set security
+\C#\Use PDF Layers
+\VB.NET\Add 3d Annotations to PDF
+\VB.NET\Add File Attachment to PDF
+\VB.NET\Add GoTo Action in PDF
 \VB.NET\Add Header And Footer
-\VB.NET\Add Page Numbers
-\VB.NET\Annotations - 3D
-\VB.NET\Annotations - File Attachment
-\VB.NET\Annotations - Markup
-\VB.NET\Annotations - Sound
-\VB.NET\Annotations - Text
-\VB.NET\Annotations - Video
-\VB.NET\Convert - DOCX to HTML
-\VB.NET\Convert - DOCX to PDF
-\VB.NET\Convert - HTML to DOCX
-\VB.NET\Convert - HTML to PDF
-\VB.NET\Convert - SVG to PDF
-\VB.NET\Convert - XML to PDF
-\VB.NET\Display Options
-\VB.NET\Document - Create New
-\VB.NET\Document - Information
-\VB.NET\Document - Load Existing
-\VB.NET\Document - Merge Two Documents
-\VB.NET\Drawing - Blend Mode
-\VB.NET\Drawing - Clipping
-\VB.NET\Drawing - Color Profiles
-\VB.NET\Drawing - Graphics State
-\VB.NET\Drawing - Lines and Curves
-\VB.NET\Drawing - Rectangles
-\VB.NET\Drawing - Template
-\VB.NET\Drawing - Tiling Patterns
-\VB.NET\Drawing - Transformations
-\VB.NET\Drawing - Transparency
-\VB.NET\Email to PDF (EmailWithAttachment)
-\VB.NET\Email to PDF (HTML Email With Attachments)
-\VB.NET\Email to PDF (HTML Email)
-\VB.NET\Email to PDF (RTF Email With Attachments)
-\VB.NET\Email to PDF (RTF Email)
-\VB.NET\Email to PDF (Text Email With Attachments)
-\VB.NET\Email to PDF (Text Email)
-\VB.NET\Forms - Button
-\VB.NET\Forms - CheckBox
-\VB.NET\Forms - ComboBox
-\VB.NET\Forms - Fill Form
-\VB.NET\Forms - Flatten Form
-\VB.NET\Forms - ListBox
-\VB.NET\Forms - RadioButton
-\VB.NET\Forms - Read Form Values
-\VB.NET\Forms - TextField
-\VB.NET\Invisible Text Over Image
-\VB.NET\Layers
-\VB.NET\Navigation - Bookmarks
-\VB.NET\Navigation - Link To Page
-\VB.NET\Navigation - Page Numbers
-\VB.NET\Reorder Pages
-\VB.NET\Security - Passwords and Permissions
-\VB.NET\Security - Remove Protection
-\VB.NET\Security - Signing
-\VB.NET\Text - Draw String
-\VB.NET\Text - Fonts
-\VB.NET\Text - Intercharacter Spacing
-\VB.NET\Text - Right To Left Text
-\VB.NET\Text - Rotation
-\VB.NET\Text - String Scaling
-\VB.NET\Text - Superscrip and Subscript
-\VB.NET\Text - Tables
-\VB.NET\Text - Watermarks
-\VB.NET\Text - Word Spacing
-\VBScript and VB6\Actions - GoTo
-\VBScript and VB6\Actions - JavaScript
-\VBScript and VB6\Actions - Launch
-\VBScript and VB6\Actions - Show-Hide Widget
-\VBScript and VB6\Actions - Submit Form
-\VBScript and VB6\Actions - URI (Link)
-\VBScript and VB6\Annotations - 3D
-\VBScript and VB6\Annotations - File Attachment
-\VBScript and VB6\Annotations - Markup
-\VBScript and VB6\Annotations - Sound
-\VBScript and VB6\Annotations - Text
-\VBScript and VB6\Annotations - Video
-\VBScript and VB6\Copy Pages From One Document To Another
-\VBScript and VB6\Display Options
-\VBScript and VB6\Document - Create New
-\VBScript and VB6\Document - Information
-\VBScript and VB6\Document - Load Existing
-\VBScript and VB6\Drawing - Blend Mode
-\VBScript and VB6\Drawing - Clipping
-\VBScript and VB6\Drawing - Color Profiles
-\VBScript and VB6\Drawing - Graphics State
-\VBScript and VB6\Drawing - Lines and Curves
-\VBScript and VB6\Drawing - Rectangles
-\VBScript and VB6\Drawing - Template
-\VBScript and VB6\Drawing - Tiling Patterns
-\VBScript and VB6\Drawing - Transformations
-\VBScript and VB6\Drawing - Transparency
-\VBScript and VB6\Forms - Button
-\VBScript and VB6\Forms - CheckBox
-\VBScript and VB6\Forms - ComboBox
-\VBScript and VB6\Forms - Fill Form
-\VBScript and VB6\Forms - Flatten Form
-\VBScript and VB6\Forms - ListBox
-\VBScript and VB6\Forms - RadioButton
-\VBScript and VB6\Forms - TextField
-\VBScript and VB6\Layers
-\VBScript and VB6\Navigation - Bookmarks
-\VBScript and VB6\Navigation - Link To Page
-\VBScript and VB6\Navigation - Page Numbers
-\VBScript and VB6\Security - Passwords and Permissions
-\VBScript and VB6\Security - Signing
-\VBScript and VB6\Text - Draw String
-\VBScript and VB6\Text - Fonts
-\VBScript and VB6\Text - Intercharacter Spacing
-\VBScript and VB6\Text - Right To Left Text
-\VBScript and VB6\Text - Rotation
-\VBScript and VB6\Text - String Scaling
-\VBScript and VB6\Text - Superscrip and Subscript
-\VBScript and VB6\Text - Tables
-\VBScript and VB6\Text - Watermarks
-\VBScript and VB6\Text - Word Spacing
-\_Web API\DOC To PDF
-\_Web API\HTML To PDF
-\_Web API\Image To PDF
-\_Web API\DOC To PDF\C#
-\_Web API\DOC To PDF\cURL
-\_Web API\DOC To PDF\Java
-\_Web API\DOC To PDF\JavaScript
-\_Web API\DOC To PDF\PHP
-\_Web API\DOC To PDF\PowerShell
-\_Web API\DOC To PDF\VB.NET
-\_Web API\DOC To PDF\C#\Convert DOC To PDF From Uploaded File
-\_Web API\DOC To PDF\C#\Convert DOC To PDF From URL
-\_Web API\DOC To PDF\C#\Convert DOC To PDF From URL Asynchronously
-\_Web API\DOC To PDF\cURL\Convert DOC To PDF From URL
-\_Web API\DOC To PDF\Java\Convert DOC To PDF From Uploaded File
-\_Web API\DOC To PDF\Java\Convert DOC To PDF From URL
-\_Web API\DOC To PDF\JavaScript\Convert DOC To PDF From Uploaded File (Node.js)
-\_Web API\DOC To PDF\JavaScript\Convert DOC To PDF From URL (Node.js)
-\_Web API\DOC To PDF\PHP\Convert DOC To PDF Asynchronously
-\_Web API\DOC To PDF\PHP\Convert DOC To PDF From Uploaded File
-\_Web API\DOC To PDF\PowerShell\Convert DOC To PDF From Uploaded File
-\_Web API\DOC To PDF\PowerShell\Convert DOC To PDF From URL
-\_Web API\DOC To PDF\PowerShell\Convert DOC To PDF From URL Asynchronously
-\_Web API\DOC To PDF\VB.NET\Convert DOC To PDF From Uploaded File
-\_Web API\DOC To PDF\VB.NET\Convert DOC To PDF From URL
-\_Web API\DOC To PDF\VB.NET\Convert DOC To PDF From URL Asynchronously
-\_Web API\HTML To PDF\C#
-\_Web API\HTML To PDF\cURL
-\_Web API\HTML To PDF\Java
-\_Web API\HTML To PDF\JavaScript
-\_Web API\HTML To PDF\PHP
-\_Web API\HTML To PDF\PowerShell
-\_Web API\HTML To PDF\VB.NET
-\_Web API\HTML To PDF\C#\Convert Web Page To PDF From Link
-\_Web API\HTML To PDF\C#\Convert Web Page To PDF From Link Asynchronously
-\_Web API\HTML To PDF\C#\Generate PDF Invoice From HTML Template
-\_Web API\HTML To PDF\cURL\Convert Web Page To PDF From Link
-\_Web API\HTML To PDF\Java\Convert Web Page To PDF From Link
-\_Web API\HTML To PDF\Java\Generate PDF Invoice From HTML Template
-\_Web API\HTML To PDF\JavaScript\Convert Web Page To PDF From Link (Node.js)
-\_Web API\HTML To PDF\JavaScript\Generate PDF Invoice From HTML Template (Node.js)
-\_Web API\HTML To PDF\PHP\Convert Web Page To PDF From Link
-\_Web API\HTML To PDF\PHP\Convert Web Page To PDF From Link Asynchronously
-\_Web API\HTML To PDF\PHP\Generate PDF Invoice From HTML Template
-\_Web API\HTML To PDF\PowerShell\Convert Web Page To PDF From Link
-\_Web API\HTML To PDF\PowerShell\Convert Web Page To PDF From Link Asynchronously
-\_Web API\HTML To PDF\PowerShell\Generate PDF Invoice From HTML Template
-\_Web API\HTML To PDF\VB.NET\Convert Web Page To PDF From URL
-\_Web API\HTML To PDF\VB.NET\Convert Web Page To PDF From URL Asynchronously
-\_Web API\HTML To PDF\VB.NET\Generate PDF Invoice From HTML Template
-\_Web API\Image To PDF\C#
-\_Web API\Image To PDF\cURL
-\_Web API\Image To PDF\Java
-\_Web API\Image To PDF\JavaScript
-\_Web API\Image To PDF\PHP
-\_Web API\Image To PDF\PowerShell
-\_Web API\Image To PDF\VB.NET
-\_Web API\Image To PDF\C#\Convert Images To PDF From Uploaded Files
-\_Web API\Image To PDF\C#\Convert Images To PDF From URLs
-\_Web API\Image To PDF\C#\Convert Images To PDF From URLs Asynchronously
-\_Web API\Image To PDF\cURL\Convert Images To PDF From URLs
-\_Web API\Image To PDF\Java\Convert Images To PDF From Uploaded Files
-\_Web API\Image To PDF\Java\Convert Images To PDF From URLs
-\_Web API\Image To PDF\JavaScript\Convert Images To PDF From URLs (Node.js)
-\_Web API\Image To PDF\PHP\Convert Images To PDF Asynchronously
-\_Web API\Image To PDF\PHP\Convert Images To PDF From Uploaded Files
-\_Web API\Image To PDF\PowerShell\Convert Images To PDF From Uploaded Files
-\_Web API\Image To PDF\PowerShell\Convert Images To PDF From URLs
-\_Web API\Image To PDF\PowerShell\Convert Images To PDF From URLs Asynchronously
-\_Web API\Image To PDF\VB.NET\Convert Images To PDF From Uploaded Files
-\_Web API\Image To PDF\VB.NET\Convert Images To PDF From URLs
-\_Web API\Image To PDF\VB.NET\Convert Images To PDF From URLs Asynchronously
+\VB.NET\Add JavaScript action in PDF
+\VB.NET\Add Launch action in pdf
+\VB.NET\Add Link To Page in PDF
+\VB.NET\Add Page Numbers to PDF
+\VB.NET\Add Show-Hide Widget action in pdf
+\VB.NET\Add Sound annotation to pdf
+\VB.NET\Add text annotation in PDF
+\VB.NET\add text field to pdf form
+\VB.NET\Add video annotation in pdf
+\VB.NET\Add Watermarks to PDF
+\VB.NET\Convert DOCX to HTML
+\VB.NET\Convert DOCX to PDF
+\VB.NET\convert Email with attachemnts to PDF
+\VB.NET\convert Email with RTF and attachments to PDF
+\VB.NET\convert HTML Email to PDF
+\VB.NET\convert HTML Email with attachments to PDF
+\VB.NET\Convert HTML to DOCX
+\VB.NET\Convert HTML to PDF
+\VB.NET\convert RTF Email to PDF
+\VB.NET\Convert SVG to PDF
+\VB.NET\convert text Email to PDF
+\VB.NET\convert text Email with attachments to PDF
+\VB.NET\Convert XML to PDF
+\VB.NET\Create Bookmarks in pdf
+\VB.NET\create Button in pdf form
+\VB.NET\create CheckBox in pdf form
+\VB.NET\create ComboBox in pdf form
+\VB.NET\Create ListBox in pdf form
+\VB.NET\Create new pdf document
+\VB.NET\create Radio Button in pdf form
+\VB.NET\Create Submit Form action in pdf
+\VB.NET\Create Tables in PDF
+\VB.NET\Create URI Link action in PDF
+\VB.NET\Draw Lines and Curves in pdf
+\VB.NET\Draw Rectangles in pdf
+\VB.NET\Draw text String in pdf
+\VB.NET\Draw Tiling Patterns in pdf
+\VB.NET\Draw with Blend Mode in pdf
+\VB.NET\Draw with Clipping in pdf
+\VB.NET\Draw with Color Profiles in pdf
+\VB.NET\Draw with Graphics State in pdf
+\VB.NET\Draw with Transparency in pdf
+\VB.NET\Fill PDF Form
+\VB.NET\Flatten PDF Form
+\VB.NET\insert Images in pdf
+\VB.NET\Load existing pdf document
+\VB.NET\Merge 2 pdf Documents
+\VB.NET\Read Form Values from PDF form
+\VB.NET\Remove Protection from PDF
+\VB.NET\Reorder Pages in pdf
+\VB.NET\Rotate text in PDF
+\VB.NET\Set Fonts for text in pdf
+\VB.NET\Set Intercharacter Spacing for text in pdf
+\VB.NET\set Invisible Text Over Image in pdf
+\VB.NET\Set Page Numbers in PDF
+\VB.NET\Set Passwords and Permissions for PDF
+\VB.NET\Set pdf document display Options
+\VB.NET\Set pdf document information
+\VB.NET\Set Superscript and Subscript for text in PDF
+\VB.NET\Set Word Spacing for text in pdf
+\VB.NET\Signing for PDF
+\VB.NET\use Drawing Template for pdf
+\VB.NET\Use Drawing Transformations for PDF
+\VB.NET\Use Markup for annotations in PDF
+\VB.NET\use pdf Layers
+\VB.NET\Use Right To Left Text in PDF
+\VB.NET\Use String Scaling in PDF
+\VBScript and VB6\Add 3d annotation in pdf
+\VBScript and VB6\Add File Attachment to PDF
+\VBScript and VB6\Add Goto action to pdf
+\VBScript and VB6\add Images in pdf
+\VBScript and VB6\Add JavaScript action in pdf
+\VBScript and VB6\Add Link To a Page in pdf
+\VBScript and VB6\Add Page Numbers in PDF
+\VBScript and VB6\Add Sound as annotation in pdf
+\VBScript and VB6\Add video annotation to pdf
+\VBScript and VB6\Add watermarks in pdf
+\VBScript and VB6\Copy Pages From One PDF Document To Another
+\VBScript and VB6\Create Bookmarks for navigation in pdf
+\VBScript and VB6\create Drawing Template for pdf
+\VBScript and VB6\Create List Box in pdf form
+\VBScript and VB6\Create New pdf document
+\VBScript and VB6\create pdf form with Button
+\VBScript and VB6\create pdf Form with ComboBox
+\VBScript and VB6\create pdf Forms with CheckBox
+\VBScript and VB6\Create Right To Left Text in pdf
+\VBScript and VB6\Create Submit Form action in PDF
+\VBScript and VB6\Create text annotation in pdf
+\VBScript and VB6\Create Tiling Patterns drawings in pdf
+\VBScript and VB6\Create URI (Link) action in pdf
+\VBScript and VB6\Draw Lines and Curves in pdf
+\VBScript and VB6\Draw Rectangles in pdf
+\VBScript and VB6\Draw String in pdf
+\VBScript and VB6\Draw tables in pdf
+\VBScript and VB6\Enable Superscript or Subscript for text in pdf
+\VBScript and VB6\Fill fields in PDF Form
+\VBScript and VB6\Flatten PDF Form
+\VBScript and VB6\Load existing pdf document
+\VBScript and VB6\Set Display Options for PDF
+\VBScript and VB6\Set Font for text in pdf
+\VBScript and VB6\Set Graphics State for PDF
+\VBScript and VB6\Set Inter character Spacing for text in pdf
+\VBScript and VB6\Set Launch action in pdf
+\VBScript and VB6\Set Markup for annotation in pdf
+\VBScript and VB6\Set Passwords and Permissions of PDF file
+\VBScript and VB6\Set Show and Hide Widget in PDF
+\VBScript and VB6\Set Text Rotation
+\VBScript and VB6\Set Text Scaling option in pdf
+\VBScript and VB6\Set Transparency for drawing in pdf
+\VBScript and VB6\Set word spacing for text in pdf
+\VBScript and VB6\Setup PDF Document Information
+\VBScript and VB6\Sign PDF document
+\VBScript and VB6\Transform Drawing in pdf
+\VBScript and VB6\Use Blend Mode for drawing in pdf
+\VBScript and VB6\Use clipping for drawing in pdf
+\VBScript and VB6\Use Color Profiles in drawing in pdf
+\VBScript and VB6\use Layers in pdf
+\VBScript and VB6\Use Radio Button in PDF form
