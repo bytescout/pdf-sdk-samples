@@ -1,14 +1,11 @@
 ## Index of source code examples:
 
-\ASP.NET
 \ASP.NET MVC C#
 \C#
 \VB.NET
 \VBScript and VB6
-\ASP.NET\PDF SDK Samples
-\ASP.NET\PDF SDK Samples\SampleFiles
-\ASP.NET MVC C#\PDF SDK Samples
-\ASP.NET MVC C#\PDF SDK Samples\SampleFiles
+\ASP.NET MVC C#\Create PDF
+\ASP.NET MVC C#\Create PDF\SampleFiles
 \C#\Add 3d Annotations in PDF
 \C#\Add Annotation with Markup in PDF
 \C#\Add File Attachment Annotation in PDF
