@@ -1,12 +1,15 @@
 ## Index of source code examples:
 
 \ASP.NET
+\ASP.NET C#
 \ASP.NET MVC C#
 \C#
 \VB.NET
 \VBScript and VB6
 \ASP.NET\PDF SDK Samples
 \ASP.NET\PDF SDK Samples\SampleFiles
+\ASP.NET C#\Create PDF
+\ASP.NET C#\Create PDF\SampleFiles
 \ASP.NET MVC C#\PDF SDK Samples
 \ASP.NET MVC C#\PDF SDK Samples\SampleFiles
 \C#\Add 3d Annotations in PDF
@@ -31,7 +34,7 @@
 \C#\Convert DOCX to PDF
 \C#\Convert Email with attachments to PDF
 \C#\Convert HTML Email to PDF
-\C#\convert HTML Email with attachments to PDF
+\C#\Convert HTML Email With Attachments To PDF
 \C#\Convert HTML to DOCX
 \C#\Convert HTML to PDF
 \C#\Convert RTF Email to PDF
@@ -67,6 +70,7 @@
 \C#\Set Graphics State for Drawing in PDF
 \C#\Set Intercharacter Spacing for Text in PDF
 \C#\Set Invisible Text Over Image in PDF
+\C#\Set Link To Page in PDF
 \C#\Set Navigation Bookmarks in PDF
 \C#\Set Page Numbers in PDF
 \C#\Set PDF document Display Options
@@ -171,6 +175,7 @@
 \VBScript and VB6\Create Right To Left Text in pdf
 \VBScript and VB6\Create Submit Form action in PDF
 \VBScript and VB6\Create text annotation in pdf
+\VBScript and VB6\Create Text Fields in PDF
 \VBScript and VB6\Create Tiling Patterns drawings in pdf
 \VBScript and VB6\Create URI (Link) action in pdf
 \VBScript and VB6\Draw Lines and Curves in pdf
