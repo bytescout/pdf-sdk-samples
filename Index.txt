@@ -18,54 +18,54 @@
 \C#\Add GoTo Action to PDF
 \C#\Add Header And Footer
 \C#\Add Images to PDF
-\C#\Add JavaScript Action to pdf
-\C#\Add Launch action to PDF
+\C#\Add JavaScript Action to PDF
+\C#\Add Launch Action to PDF
 \C#\Add Page Numbers
 \C#\Add Passwords And Permissions in PDF
 \C#\Add Show Hide Action to PDF
 \C#\Add Sound Annotation in PDF
 \C#\Add Submit Form Action to PDF
-\C#\Add text annotations in PDF
+\C#\Add Text Annotations in PDF
 \C#\Add TextField to PDF form
 \C#\Add URI Link Action in PDF
-\C#\Add video annotation in PDF
+\C#\Add Video Annotation in PDF
 \C#\Add Watermarks to PDF
 \C#\Convert DOCX to HTML
 \C#\Convert DOCX to PDF
-\C#\Convert Email with attachments to PDF
+\C#\Convert Email with Attachments to PDF
 \C#\Convert HTML Email to PDF
 \C#\Convert HTML Email With Attachments To PDF
 \C#\Convert HTML to DOCX
 \C#\Convert HTML to PDF
 \C#\Convert RTF Email to PDF
-\C#\Convert RTF Email with attachments to PDF
+\C#\Convert RTF Email with Attachments to PDF
 \C#\Convert SVG to PDF
-\C#\Convert text Email to PDF
-\C#\Convert text email with attachments to PDF
+\C#\Convert Text Email to PDF
+\C#\Convert Text Email with Attachments to PDF
 \C#\Convert XML to PDF
-\C#\Create and use template in PDF
-\C#\Create button in PDF Form
-\C#\Create checkbox in pdf form
+\C#\Create And Use Template In PDF
+\C#\Create Button in PDF Form
+\C#\Create Checkbox In PDF Form
 \C#\Create ComboBox in PDF form
 \C#\Create ListBox in PDF form
-\C#\Create New PDF document
+\C#\Create New PDF Document
 \C#\Create RadioButton in PDF form
 \C#\Create Right To Left Text in PDF
 \C#\Create Tables in PDF
 \C#\Draw Lines and Curves in PDF
 \C#\Draw Rectangles in PDF
-\C#\Draw text String in PDF
+\C#\Draw Text String in PDF
 \C#\Draw with Transparency in PDF
-\C#\Fill PDF form
+\C#\Fill PDF Form
 \C#\Flatten PDF Form
-\C#\Load Existing PDF document
+\C#\Load Existing PDF Document
 \C#\Merge Two PDF Documents
 \C#\Read Form Values from PDF form
-\C#\Remove password and Protection from PDF
+\C#\Remove Password and Protection From PDF
 \C#\Reorder Pages in PDF
 \C#\Set Blend Mode for Drawing in PDF
-\C#\Set Clipping for drawing in PDF
-\C#\Set Color Profiles for drawing in PDF
+\C#\Set Clipping for Drawing in PDF
+\C#\Set Color Profiles for Drawing in PDF
 \C#\Set Fonts for text in PDF
 \C#\Set Graphics State for Drawing in PDF
 \C#\Set Intercharacter Spacing for Text in PDF
@@ -73,136 +73,136 @@
 \C#\Set Link To Page in PDF
 \C#\Set Navigation Bookmarks in PDF
 \C#\Set Page Numbers in PDF
-\C#\Set PDF document Display Options
-\C#\Set PDF document Information
+\C#\Set PDF Document Display Options
+\C#\Set PDF Document Information
 \C#\Set String Scaling in PDF
 \C#\Set Superscript and Subscript
 \C#\Set Text Rotation in PDF
-\C#\Set Tiling Patterns for drawings in pdf
-\C#\Set Transformations for drawings in pdf
-\C#\Set Word Spacing for text in PDF
-\C#\Signing PDF and set security
+\C#\Set Tiling Patterns for Drawings in PDF
+\C#\Set Transformations for Drawings in PDF
+\C#\Set Word Spacing for Text in PDF
+\C#\Sign PDF and Set Security
 \C#\Use PDF Layers
-\VB.NET\Add 3d Annotations to PDF
+\VB.NET\Add 3D Annotations to PDF
 \VB.NET\Add File Attachment to PDF
 \VB.NET\Add GoTo Action in PDF
 \VB.NET\Add Header And Footer
-\VB.NET\Add JavaScript action in PDF
-\VB.NET\Add Launch action in pdf
+\VB.NET\Add JavaScript Action in PDF
+\VB.NET\Add Launch Action in PDF
 \VB.NET\Add Link To Page in PDF
 \VB.NET\Add Page Numbers to PDF
-\VB.NET\Add Show-Hide Widget action in pdf
-\VB.NET\Add Sound annotation to pdf
-\VB.NET\Add text annotation in PDF
-\VB.NET\add text field to pdf form
-\VB.NET\Add video annotation in pdf
+\VB.NET\Add Show-Hide Widget Action in PDF
+\VB.NET\Add Sound Annotation to PDF
+\VB.NET\Add Text Annotation in PDF
+\VB.NET\Add Text Field to PDF Form
+\VB.NET\Add Video Annotation in PDF
 \VB.NET\Add Watermarks to PDF
 \VB.NET\Convert DOCX to HTML
 \VB.NET\Convert DOCX to PDF
-\VB.NET\convert Email with attachemnts to PDF
-\VB.NET\convert Email with RTF and attachments to PDF
-\VB.NET\convert HTML Email to PDF
-\VB.NET\convert HTML Email with attachments to PDF
+\VB.NET\Convert Email with Attachments to PDF
+\VB.NET\Convert Email with RTF and Attachments to PDF
+\VB.NET\Convert HTML Email to PDF
+\VB.NET\Convert HTML Email with Attachments to PDF
 \VB.NET\Convert HTML to DOCX
 \VB.NET\Convert HTML to PDF
-\VB.NET\convert RTF Email to PDF
+\VB.NET\Convert RTF Email to PDF
 \VB.NET\Convert SVG to PDF
-\VB.NET\convert text Email to PDF
-\VB.NET\convert text Email with attachments to PDF
+\VB.NET\Convert Text Email to PDF
+\VB.NET\Convert Text Email with Attachments to PDF
 \VB.NET\Convert XML to PDF
-\VB.NET\Create Bookmarks in pdf
-\VB.NET\create Button in pdf form
-\VB.NET\create CheckBox in pdf form
-\VB.NET\create ComboBox in pdf form
-\VB.NET\Create ListBox in pdf form
-\VB.NET\Create new pdf document
-\VB.NET\create Radio Button in pdf form
-\VB.NET\Create Submit Form action in pdf
+\VB.NET\Create And Use Template In PDF
+\VB.NET\Create Bookmarks in PDF
+\VB.NET\Create Button in PDF Form
+\VB.NET\Create CheckBox in PDF Form
+\VB.NET\Create ComboBox in PDF Form
+\VB.NET\Create ListBox in PDF Form
+\VB.NET\Create New PDF Document
+\VB.NET\Create Radio Button in PDF Form
+\VB.NET\Create Submit Form Action in PDF
 \VB.NET\Create Tables in PDF
-\VB.NET\Create URI Link action in PDF
-\VB.NET\Draw Lines and Curves in pdf
-\VB.NET\Draw Rectangles in pdf
-\VB.NET\Draw text String in pdf
-\VB.NET\Draw Tiling Patterns in pdf
-\VB.NET\Draw with Blend Mode in pdf
-\VB.NET\Draw with Clipping in pdf
-\VB.NET\Draw with Color Profiles in pdf
-\VB.NET\Draw with Graphics State in pdf
-\VB.NET\Draw with Transparency in pdf
+\VB.NET\Create URI Link Action in PDF
+\VB.NET\Draw Lines and Curves in PDF
+\VB.NET\Draw Rectangles in PDF
+\VB.NET\Draw Text String in PDF
+\VB.NET\Draw Tiling Patterns in PDF
+\VB.NET\Draw with Blend Mode in PDF
+\VB.NET\Draw with Clipping in PDF
+\VB.NET\Draw with Color Profiles in PDF
+\VB.NET\Draw with Graphics State in PDF
+\VB.NET\Draw with Transparency in PDF
 \VB.NET\Fill PDF Form
 \VB.NET\Flatten PDF Form
-\VB.NET\insert Images in pdf
-\VB.NET\Load existing pdf document
-\VB.NET\Merge 2 pdf Documents
-\VB.NET\Read Form Values from PDF form
+\VB.NET\Insert Images in PDF
+\VB.NET\Load Existing PDF Document
+\VB.NET\Merge Two PDF Documents
+\VB.NET\Read Form Values from PDF Form
 \VB.NET\Remove Protection from PDF
-\VB.NET\Reorder Pages in pdf
-\VB.NET\Rotate text in PDF
-\VB.NET\Set Fonts for text in pdf
-\VB.NET\Set Intercharacter Spacing for text in pdf
-\VB.NET\set Invisible Text Over Image in pdf
+\VB.NET\Reorder Pages in PDF
+\VB.NET\Rotate Text in PDF
+\VB.NET\Set Fonts for Text in PDF
+\VB.NET\Set Intercharacter Spacing for Text in PDF
+\VB.NET\Set Invisible Text Over Image in PDF
 \VB.NET\Set Page Numbers in PDF
 \VB.NET\Set Passwords and Permissions for PDF
-\VB.NET\Set pdf document display Options
-\VB.NET\Set pdf document information
-\VB.NET\Set Superscript and Subscript for text in PDF
-\VB.NET\Set Word Spacing for text in pdf
-\VB.NET\Signing for PDF
-\VB.NET\use Drawing Template for pdf
+\VB.NET\Set PDF Document Display Options
+\VB.NET\Set PDF Document Information
+\VB.NET\Set Superscript and Subscript for Text in PDF
+\VB.NET\Set Word Spacing for Text in PDF
+\VB.NET\Sign PDF
 \VB.NET\Use Drawing Transformations for PDF
-\VB.NET\Use Markup for annotations in PDF
-\VB.NET\use pdf Layers
+\VB.NET\Use Markup for Annotations in PDF
+\VB.NET\Use PDF Layers
 \VB.NET\Use Right To Left Text in PDF
 \VB.NET\Use String Scaling in PDF
-\VBScript and VB6\Add 3d annotation in pdf
+\VBScript and VB6\Add 3D Annotation in PDF
 \VBScript and VB6\Add File Attachment to PDF
-\VBScript and VB6\Add Goto action to pdf
-\VBScript and VB6\add Images in pdf
-\VBScript and VB6\Add JavaScript action in pdf
-\VBScript and VB6\Add Link To a Page in pdf
+\VBScript and VB6\Add GoTo Action to PDF
+\VBScript and VB6\Add Images in PDF
+\VBScript and VB6\Add JavaScript Action in PDF
+\VBScript and VB6\Add Link To Page in PDF
 \VBScript and VB6\Add Page Numbers in PDF
-\VBScript and VB6\Add Sound as annotation in pdf
-\VBScript and VB6\Add video annotation to pdf
-\VBScript and VB6\Add watermarks in pdf
+\VBScript and VB6\Add Sound Annotation in PDF
+\VBScript and VB6\Add Video Annotation to PDF
+\VBScript and VB6\Add Watermarks in PDF
 \VBScript and VB6\Copy Pages From One PDF Document To Another
-\VBScript and VB6\Create Bookmarks for navigation in pdf
-\VBScript and VB6\create Drawing Template for pdf
-\VBScript and VB6\Create List Box in pdf form
-\VBScript and VB6\Create New pdf document
-\VBScript and VB6\create pdf form with Button
-\VBScript and VB6\create pdf Form with ComboBox
-\VBScript and VB6\create pdf Forms with CheckBox
-\VBScript and VB6\Create Right To Left Text in pdf
-\VBScript and VB6\Create Submit Form action in PDF
-\VBScript and VB6\Create text annotation in pdf
+\VBScript and VB6\Create Bookmarks for Navigation in PDF
+\VBScript and VB6\Create Drawing Template for PDF
+\VBScript and VB6\Create List Box in PDF Form
+\VBScript and VB6\Create New PDF Document
+\VBScript and VB6\Create PDF Form with Button
+\VBScript and VB6\Create PDF Form with CheckBox
+\VBScript and VB6\Create PDF Form with ComboBox
+\VBScript and VB6\Create Right-To-Left Text in PDF
+\VBScript and VB6\Create Submit Form Action in PDF
+\VBScript and VB6\Create Text Annotation in PDF
 \VBScript and VB6\Create Text Fields in PDF
-\VBScript and VB6\Create Tiling Patterns drawings in pdf
-\VBScript and VB6\Create URI (Link) action in pdf
-\VBScript and VB6\Draw Lines and Curves in pdf
-\VBScript and VB6\Draw Rectangles in pdf
-\VBScript and VB6\Draw String in pdf
-\VBScript and VB6\Draw tables in pdf
-\VBScript and VB6\Enable Superscript or Subscript for text in pdf
-\VBScript and VB6\Fill fields in PDF Form
+\VBScript and VB6\Create Tiling Patterns Drawings in PDF
+\VBScript and VB6\Create URI (Link) Action in PDF
+\VBScript and VB6\Draw Lines and Curves in PDF
+\VBScript and VB6\Draw Rectangles in PDF
+\VBScript and VB6\Draw String in PDF
+\VBScript and VB6\Draw Tables in PDF
+\VBScript and VB6\Enable Superscript or Subscript for Text in PDF
+\VBScript and VB6\Fill Fields in PDF Form
 \VBScript and VB6\Flatten PDF Form
-\VBScript and VB6\Load existing pdf document
+\VBScript and VB6\Load Existing PDF Document
 \VBScript and VB6\Set Display Options for PDF
-\VBScript and VB6\Set Font for text in pdf
+\VBScript and VB6\Set Font for Text in PDF
 \VBScript and VB6\Set Graphics State for PDF
-\VBScript and VB6\Set Inter character Spacing for text in pdf
-\VBScript and VB6\Set Launch action in pdf
-\VBScript and VB6\Set Markup for annotation in pdf
+\VBScript and VB6\Set Inter-Character Spacing for Text in PDF
+\VBScript and VB6\Set Launch Action in PDF
+\VBScript and VB6\Set Markup Aannotation in PDF
 \VBScript and VB6\Set Passwords and Permissions of PDF file
 \VBScript and VB6\Set Show and Hide Widget in PDF
 \VBScript and VB6\Set Text Rotation
-\VBScript and VB6\Set Text Scaling option in pdf
-\VBScript and VB6\Set Transparency for drawing in pdf
-\VBScript and VB6\Set word spacing for text in pdf
+\VBScript and VB6\Set Text Scaling Option in PDF
+\VBScript and VB6\Set Transparency for Drawing in PDF
+\VBScript and VB6\Set Word Spacing for Text in PDF
 \VBScript and VB6\Setup PDF Document Information
-\VBScript and VB6\Sign PDF document
-\VBScript and VB6\Transform Drawing in pdf
-\VBScript and VB6\Use Blend Mode for drawing in pdf
-\VBScript and VB6\Use clipping for drawing in pdf
-\VBScript and VB6\Use Color Profiles in drawing in pdf
-\VBScript and VB6\use Layers in pdf
+\VBScript and VB6\Sign PDF Document
+\VBScript and VB6\Transform Drawing in PDF
+\VBScript and VB6\Use Blend Mode for Drawing in PDF
+\VBScript and VB6\Use Clipping for Drawing in PDF
+\VBScript and VB6\Use Color Profiles in Drawing in PDF
+\VBScript and VB6\Use Layers in PDF
 \VBScript and VB6\Use Radio Button in PDF form
