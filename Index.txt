@@ -56,6 +56,7 @@
 \C#\Draw Rectangles in PDF
 \C#\Draw Text String in PDF
 \C#\Draw with Transparency in PDF
+\C#\Fill Form 1099-INT
 \C#\Fill PDF Form
 \C#\Flatten PDF Form
 \C#\Load Existing PDF Document
@@ -82,6 +83,7 @@
 \C#\Set Transformations for Drawings in PDF
 \C#\Set Word Spacing for Text in PDF
 \C#\Sign PDF and Set Security
+\C#\Split PDF Document
 \C#\Use PDF Layers
 \VB.NET\Add 3D Annotations to PDF
 \VB.NET\Add File Attachment to PDF
