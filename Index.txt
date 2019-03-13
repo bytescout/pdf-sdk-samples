@@ -101,13 +101,13 @@
 \VB.NET\Add Watermarks to PDF
 \VB.NET\Convert DOCX to HTML
 \VB.NET\Convert DOCX to PDF
-\VB.NET\Convert Email with Attachments to PDF
-\VB.NET\Convert Email with RTF and Attachments to PDF
+\VB.NET\convert Email with attachemnts to PDF
 \VB.NET\Convert HTML Email to PDF
 \VB.NET\Convert HTML Email with Attachments to PDF
 \VB.NET\Convert HTML to DOCX
 \VB.NET\Convert HTML to PDF
 \VB.NET\Convert RTF Email to PDF
+\VB.NET\Convert RTF Email with attachments to PDF
 \VB.NET\Convert SVG to PDF
 \VB.NET\Convert Text Email to PDF
 \VB.NET\Convert Text Email with Attachments to PDF
