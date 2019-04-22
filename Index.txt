@@ -43,6 +43,7 @@
 \C#\Convert Text Email to PDF
 \C#\Convert Text Email with Attachments to PDF
 \C#\Convert XML to PDF
+\C#\Convert XPS to PDF
 \C#\Create And Use Template In PDF
 \C#\Create Button in PDF Form
 \C#\Create Checkbox In PDF Form
@@ -113,6 +114,7 @@
 \VB.NET\Convert Text Email to PDF
 \VB.NET\Convert Text Email with Attachments to PDF
 \VB.NET\Convert XML to PDF
+\VB.NET\Convert XPS to PDF
 \VB.NET\Create And Use Template In PDF
 \VB.NET\Create Bookmarks in PDF
 \VB.NET\Create Button in PDF Form
