@@ -30,6 +30,7 @@
 \C#\Add URI Link Action in PDF
 \C#\Add Video Annotation in PDF
 \C#\Add Watermarks to PDF
+\C#\Convert Digital Photos to PDF
 \C#\Convert DOCX to HTML
 \C#\Convert DOCX to PDF
 \C#\Convert Email with Attachments to PDF
@@ -49,6 +50,7 @@
 \C#\Create Checkbox In PDF Form
 \C#\Create ComboBox in PDF form
 \C#\Create ListBox in PDF form
+\C#\Create Multipage Tiff to PDF
 \C#\Create New PDF Document
 \C#\Create RadioButton in PDF form
 \C#\Create Right To Left Text in PDF
@@ -106,6 +108,7 @@
 \VB.NET\Add Text Field to PDF Form
 \VB.NET\Add Video Annotation in PDF
 \VB.NET\Add Watermarks to PDF
+\VB.NET\Convert Digital Photos to PDF
 \VB.NET\Convert DOCX to HTML
 \VB.NET\Convert DOCX to PDF
 \VB.NET\convert Email with attachemnts to PDF
@@ -126,11 +129,13 @@
 \VB.NET\Create CheckBox in PDF Form
 \VB.NET\Create ComboBox in PDF Form
 \VB.NET\Create ListBox in PDF Form
+\VB.NET\Create Multipage Tiff to PDF
 \VB.NET\Create New PDF Document
 \VB.NET\Create Radio Button in PDF Form
 \VB.NET\Create Submit Form Action in PDF
 \VB.NET\Create Tables in PDF
 \VB.NET\Create URI Link Action in PDF
+\VB.NET\Create ZUGFeRD Invoice
 \VB.NET\Draw Lines and Curves in PDF
 \VB.NET\Draw Rectangles in PDF
 \VB.NET\Draw Text String in PDF
@@ -194,6 +199,7 @@
 \VBScript and VB6\Create Text Fields in PDF
 \VBScript and VB6\Create Tiling Patterns Drawings in PDF
 \VBScript and VB6\Create URI (Link) Action in PDF
+\VBScript and VB6\Create ZUGFeRD Invoice
 \VBScript and VB6\Draw Lines and Curves in PDF
 \VBScript and VB6\Draw Rectangles in PDF
 \VBScript and VB6\Draw String in PDF
