@@ -59,11 +59,16 @@
 \C#\Draw Text String in PDF
 \C#\Draw with Transparency in PDF
 \C#\Fill Form 1099-INT
+\C#\Fill Form W-4
+\C#\Fill Form W-9
 \C#\Fill PDF Form
 \C#\Flatten PDF Form
 \C#\Load Existing PDF Document
 \C#\Merge Two PDF Documents
+\C#\Read Form Values from 1099-INT form
 \C#\Read Form Values from PDF form
+\C#\Read Form Values from W-4 form
+\C#\Read Form Values from W-9 form
 \C#\Remove Password and Protection From PDF
 \C#\Reorder Pages in PDF
 \C#\Set Blend Mode for Drawing in PDF
@@ -135,12 +140,18 @@
 \VB.NET\Draw with Color Profiles in PDF
 \VB.NET\Draw with Graphics State in PDF
 \VB.NET\Draw with Transparency in PDF
+\VB.NET\Fill Form 1099-INT
+\VB.NET\Fill Form W-4
+\VB.NET\Fill Form W-9
 \VB.NET\Fill PDF Form
 \VB.NET\Flatten PDF Form
 \VB.NET\Insert Images in PDF
 \VB.NET\Load Existing PDF Document
 \VB.NET\Merge Two PDF Documents
+\VB.NET\Read Form Values from 1099-INT form
 \VB.NET\Read Form Values from PDF Form
+\VB.NET\Read Form Values from W-4 form
+\VB.NET\Read Form Values from W-9 form
 \VB.NET\Remove Protection from PDF
 \VB.NET\Reorder Pages in PDF
 \VB.NET\Rotate Text in PDF
