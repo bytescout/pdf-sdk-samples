@@ -49,6 +49,7 @@
 \C#\Create Button in PDF Form
 \C#\Create Checkbox In PDF Form
 \C#\Create ComboBox in PDF form
+\C#\Create Invoice PDF from HTML
 \C#\Create Invoice Spanning Multiple Page
 \C#\Create ListBox in PDF form
 \C#\Create Multipage Tiff to PDF
@@ -129,6 +130,7 @@
 \VB.NET\Create Button in PDF Form
 \VB.NET\Create CheckBox in PDF Form
 \VB.NET\Create ComboBox in PDF Form
+\VB.NET\Create Invoice PDF from HTML
 \VB.NET\Create Invoice Spanning Multiple Page
 \VB.NET\Create ListBox in PDF Form
 \VB.NET\Create Multipage Tiff to PDF
