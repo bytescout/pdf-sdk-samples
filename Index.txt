@@ -67,6 +67,7 @@
 \C#\Fill Form W-9
 \C#\Fill PDF Form
 \C#\Flatten PDF Form
+\C#\Insert Page to PDF
 \C#\Load Existing PDF Document
 \C#\Merge Two PDF Documents
 \C#\Read Form Values from 1099-INT form
@@ -155,6 +156,7 @@
 \VB.NET\Fill PDF Form
 \VB.NET\Flatten PDF Form
 \VB.NET\Insert Images in PDF
+\VB.NET\Insert Pages to PDF
 \VB.NET\Load Existing PDF Document
 \VB.NET\Merge Two PDF Documents
 \VB.NET\Read Form Values from 1099-INT form
