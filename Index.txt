@@ -94,6 +94,7 @@
 \C#\Set Tiling Patterns for Drawings in PDF
 \C#\Set Transformations for Drawings in PDF
 \C#\Set Word Spacing for Text in PDF
+\C#\Shift Page Content
 \C#\Sign PDF and Set Security
 \C#\Split PDF Document
 \C#\Use PDF Layers
@@ -175,6 +176,7 @@
 \VB.NET\Set PDF Document Information
 \VB.NET\Set Superscript and Subscript for Text in PDF
 \VB.NET\Set Word Spacing for Text in PDF
+\VB.NET\Shift Page Content
 \VB.NET\Sign PDF
 \VB.NET\Use Drawing Transformations for PDF
 \VB.NET\Use Markup for Annotations in PDF
@@ -227,6 +229,7 @@
 \VBScript and VB6\Set Transparency for Drawing in PDF
 \VBScript and VB6\Set Word Spacing for Text in PDF
 \VBScript and VB6\Setup PDF Document Information
+\VBScript and VB6\Shift Page Content
 \VBScript and VB6\Sign PDF Document
 \VBScript and VB6\Transform Drawing in PDF
 \VBScript and VB6\Use Blend Mode for Drawing in PDF
