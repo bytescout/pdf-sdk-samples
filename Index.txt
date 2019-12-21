@@ -30,6 +30,7 @@
 \C#\Add URI Link Action in PDF
 \C#\Add Video Annotation in PDF
 \C#\Add Watermarks to PDF
+\C#\Change Page Size
 \C#\Convert Digital Photos to PDF
 \C#\Convert DOCX to HTML
 \C#\Convert DOCX to PDF
