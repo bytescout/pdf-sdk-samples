@@ -59,6 +59,7 @@
 \C#\Create Right To Left Text in PDF
 \C#\Create Tables in PDF
 \C#\Create ZUGFeRD Invoice
+\C#\Download and Process file
 \C#\Draw Lines and Curves in PDF
 \C#\Draw Rectangles in PDF
 \C#\Draw Text String in PDF
@@ -143,6 +144,7 @@
 \VB.NET\Create Tables in PDF
 \VB.NET\Create URI Link Action in PDF
 \VB.NET\Create ZUGFeRD Invoice
+\VB.NET\Download and Process file
 \VB.NET\Draw Lines and Curves in PDF
 \VB.NET\Draw Rectangles in PDF
 \VB.NET\Draw Text String in PDF
