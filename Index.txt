@@ -64,6 +64,7 @@
 \C#\Draw Rectangles in PDF
 \C#\Draw Text String in PDF
 \C#\Draw with Transparency in PDF
+\C#\External JS for form data validation
 \C#\Fill Form 1099-INT
 \C#\Fill Form W-4
 \C#\Fill Form W-9
@@ -154,6 +155,7 @@
 \VB.NET\Draw with Color Profiles in PDF
 \VB.NET\Draw with Graphics State in PDF
 \VB.NET\Draw with Transparency in PDF
+\VB.NET\External JS for form data validation
 \VB.NET\Fill Form 1099-INT
 \VB.NET\Fill Form W-4
 \VB.NET\Fill Form W-9
