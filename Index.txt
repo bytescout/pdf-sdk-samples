@@ -62,6 +62,7 @@
 \C#\Download and Process file
 \C#\Draw Lines and Curves in PDF
 \C#\Draw Rectangles in PDF
+\C#\Draw Text On Rotated Page
 \C#\Draw Text String in PDF
 \C#\Draw with Transparency in PDF
 \C#\External JS for form data validation
@@ -148,6 +149,7 @@
 \VB.NET\Download and Process file
 \VB.NET\Draw Lines and Curves in PDF
 \VB.NET\Draw Rectangles in PDF
+\VB.NET\Draw Text On Rotated Page
 \VB.NET\Draw Text String in PDF
 \VB.NET\Draw Tiling Patterns in PDF
 \VB.NET\Draw with Blend Mode in PDF
