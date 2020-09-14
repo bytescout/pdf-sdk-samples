@@ -4,6 +4,7 @@
 \ASP.NET C#
 \ASP.NET MVC C#
 \C#
+\Delphi
 \VB.NET
 \VBScript and VB6
 \ASP.NET\PDF SDK Samples
@@ -103,6 +104,10 @@
 \C#\Sign PDF and Set Security
 \C#\Split PDF Document
 \C#\Use PDF Layers
+\Delphi\Add Header And Footer
+\Delphi\Add Page Numbers
+\Delphi\Add Submit Form Action to PDF
+\Delphi\Use PDF Layers
 \VB.NET\Add 3D Annotations to PDF
 \VB.NET\Add File Attachment to PDF
 \VB.NET\Add GoTo Action in PDF
