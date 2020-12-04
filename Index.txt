@@ -73,6 +73,7 @@
 \C#\Fill Form W-9
 \C#\Fill PDF Form
 \C#\Flatten PDF Form
+\C#\Get All PDF Form Fields
 \C#\Insert Page to PDF
 \C#\Load Existing PDF Document
 \C#\Merge Two PDF Documents
@@ -170,6 +171,7 @@
 \VB.NET\Fill Form W-9
 \VB.NET\Fill PDF Form
 \VB.NET\Flatten PDF Form
+\VB.NET\Get All PDF Form Fields
 \VB.NET\Insert Images in PDF
 \VB.NET\Insert Pages to PDF
 \VB.NET\Load Existing PDF Document
