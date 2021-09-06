@@ -104,6 +104,7 @@
 \C#\Shift Page Content
 \C#\Sign PDF and Set Security
 \C#\Split PDF Document
+\C#\Use PDF as Background to Other PDF
 \C#\Use PDF Layers
 \Delphi\Add Header And Footer
 \Delphi\Add Page Numbers
@@ -196,6 +197,7 @@
 \VB.NET\Sign PDF
 \VB.NET\Use Drawing Transformations for PDF
 \VB.NET\Use Markup for Annotations in PDF
+\VB.NET\Use PDF as Background to Other PDF
 \VB.NET\Use PDF Layers
 \VB.NET\Use Right To Left Text in PDF
 \VB.NET\Use String Scaling in PDF
