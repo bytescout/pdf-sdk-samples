@@ -65,6 +65,7 @@
 \C#\Draw Rectangles in PDF
 \C#\Draw Text On Rotated Page
 \C#\Draw Text String in PDF
+\C#\Draw Transparent Text
 \C#\Draw with Transparency in PDF
 \C#\External JS for form data validation
 \C#\Fill Form 1099-INT
@@ -160,6 +161,7 @@
 \VB.NET\Draw Text On Rotated Page
 \VB.NET\Draw Text String in PDF
 \VB.NET\Draw Tiling Patterns in PDF
+\VB.NET\Draw Trasparent Text
 \VB.NET\Draw with Blend Mode in PDF
 \VB.NET\Draw with Clipping in PDF
 \VB.NET\Draw with Color Profiles in PDF
