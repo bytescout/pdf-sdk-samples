@@ -98,6 +98,7 @@
 \C#\Set PDF Document Information
 \C#\Set String Scaling in PDF
 \C#\Set Superscript and Subscript
+\C#\Set Text Line Spacing in PDF
 \C#\Set Text Rotation in PDF
 \C#\Set Tiling Patterns for Drawings in PDF
 \C#\Set Transformations for Drawings in PDF
